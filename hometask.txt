@@ -1,0 +1,8 @@
+Ветки master и demo одинаковы
+6 commits:
+Merge branch 'boots_buttons'
+Merge remote-tracking branch 'origin/hat'
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+1
+Initial commit
